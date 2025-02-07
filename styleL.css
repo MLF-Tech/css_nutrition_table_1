@@ -35,22 +35,21 @@
 
 .th1 {
     flex: 7;
-    padding-top: 8%;
+    flex-direction: column;
+    align-self: flex-end;
 
 }
 .th2 {
     flex: 1;
-    padding-top: 8%;
+    flex-direction: column;
+    align-self: flex-end;
+    text-align: right;
 }
 .th3 {
     flex: 2;
     text-align: right;
-    padding-top: 8%;
-}
-
-.th3header {
-    flex: 2;
-    text-align: right;
+    flex-direction: column;
+    align-self: flex-end;
 }
 
 .thinline {
