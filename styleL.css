@@ -45,6 +45,12 @@
 .th3 {
     width: 20%;
     text-align: right;
+    padding-top: 8%;
+}
+
+.th3header {
+    width: 20%;
+    text-align: right;
 }
 
 .thinline {
