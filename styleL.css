@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    border: 1px solid black;
+    width: auto;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 1%;
+   
+}
+
+.smalltext {
+    font-size: 60%;
+    font-weight: bold;
+}
+
+.fatline {
+    height: .7rem;
+    background: black;
+
+}
+
+.tab1 {
+    border: 2px solid blue;
+    display: flex;
+    font-size: 60%;
+    font-weight: bold;
+    gap: 10%;
+}
+
+.th1 {
+    width: 70%;
+    padding-top: 8%;
+
+}
+.th2 {
+    width: 10%;
+    padding-top: 8%;
+}
+.th3 {
+    width: 20%;
+    text-align: right;
+}
