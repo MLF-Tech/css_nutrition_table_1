@@ -34,22 +34,22 @@
 }
 
 .th1 {
-    width: 70%;
+    flex: 7;
     padding-top: 8%;
 
 }
 .th2 {
-    width: 10%;
+    flex: 1;
     padding-top: 8%;
 }
 .th3 {
-    width: 20%;
+    flex: 2;
     text-align: right;
     padding-top: 8%;
 }
 
 .th3header {
-    width: 20%;
+    flex: 2;
     text-align: right;
 }
 
