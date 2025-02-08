@@ -73,3 +73,16 @@
     font-weight: bold;
     text-align: right;
 }
+
+.normalline {
+    height: .1rem;
+    background-color: black;
+}
+
+.th1indent {
+    flex: 7;
+    flex-direction: column;
+    align-self: flex-end;
+    padding-left: 3%;
+    
+}
