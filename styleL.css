@@ -67,3 +67,9 @@
     height: .3rem;
     background: black;  
 }
+
+.textontheright {
+    font-size: 50%;
+    font-weight: bold;
+    text-align: right;
+}
