@@ -62,3 +62,8 @@
     background-color: rgb(199, 197, 197);
     margin-left: 3%;
 }
+
+.fat2line {
+    height: .3rem;
+    background: black;  
+}
